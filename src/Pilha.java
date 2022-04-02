@@ -50,7 +50,6 @@ public class Pilha <X> {
                 "sendo o ultimo valor inserido: " + this.elem[this.ultimo]);
     }
 
-    //Gerados diretamento do InteliJ
     @Override
     public boolean equals(Object obj) {
         if(this == obj)
